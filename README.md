@@ -1,7 +1,7 @@
 # Home Page
 
 ## Education
-I'm a graduate from UW Whitewater in the School of Letters and Science for Management Computer Systems.  At the time I graduated the internet was just coming to life, the bubble was forming, and I lived with 3 others guys that all worked in tech in some fashion. My greatest educational experience over formal education was in the form of my first promotion to manager at a small tech company in the early 2000s, Modern Business Technologies. Servicing everything from client PCs to helping configure networks to customizing modules in IIS and SharePoint.
+I'm a graduate from UW Whitewater in the School of Letters and Science for Management Computer Systems.  At the time I graduated the internet was just coming to life, the bubble was forming, and I lived with 3 other guys that all worked in tech in some fashion. My greatest educational experience over formal education was in the form of my first promotion to manager at a small tech company in the early 2000s, Modern Business Technologies. Servicing everything from client PCs to helping configure networks to customizing modules in IIS and SharePoint.
 
 I left the management position, did some contract IT work for a while and then partnered with a friend to do more IT projects. DigitalTech LLC.  It didn't last long.  We had different point of views on what we were building, a common partnership issue, and we ended it within a couple years.  I opened Yog-IT right after. 
 
