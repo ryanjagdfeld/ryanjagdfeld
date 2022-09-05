@@ -1,5 +1,4 @@
 # Home Page
----
 I will be using this project as a main page about me, but also test various GitHub features and write about what I'm using them for.  It is and will continue to always be a work in process.  
 
 ## Education
