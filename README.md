@@ -9,6 +9,6 @@ I left the management position, did some contract IT work for a while and then p
 Starting my own company is also another educational experience I rank very high in importance.  I started Yog-IT LLC in 2005 as simply what it was, a Limited Liability Corporation to cover my ass..ets. Since that time, I have branched into reselling online hosting, email and marketing products, customized websites and developing apps.  
 
 ## Getting Here
-I've been designing and creating websites and apps for years, but I've always done it for someone else.  Nothing to publish, nothing to make public.  There are reasons this wasn't so bad. Owning my own company, setting my own hours, run the projects from top to bottom (or front to back).  However, I feel like I've been creating in a void.  So many times I've tried to get more into open source.  These repos and this GitHub account are my beginnings into doing more to contribute to all those that helped me learn so much.
+I've been designing and creating websites and apps for years, but I've always done it for clients.  Nothing to publish, nothing to make public.  There are reasons this wasn't so bad. Owning my own company, setting my own hours, run the projects from top to bottom (or front to back).  However, I feel like I've been creating in a void. Many times I've tried to get more into open source. I'd start contributing, but it was spars. These repos and this GitHub account are my beginnings into doing more to contribute to all those that helped me learn so much and get here.
 
 
