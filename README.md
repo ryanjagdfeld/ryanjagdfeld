@@ -1,4 +1,4 @@
-# Home Page
+# ![Introduction](https://ryanjagdfeld.com/Portals/1/images/introduction.png)
 I will be using this repository as a sort of bio, but also to test various GitHub features and write about what I'm using them for.  It is and will continue to always be a work in process.  
 
 ## Education
