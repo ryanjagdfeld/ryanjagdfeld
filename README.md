@@ -1,4 +1,5 @@
-# Home Page
+# ![Introduction](https://ryanjagdfeld.com/Portals/1/images/introduction-v4.png)
+I've been designing and creating websites and apps for years.  These repos are my contribution to all those that helped me learn so much and get this far.
 
-## Getting Here
-I've been designing and creating websites and apps for years, but I've always done it for someone else.  Nothing to publish, nothing to make public.  There are reasons this wasn't so bad. I set my own hours, run the projects from top to bottom (or front to back).  However, I feel like I've been creating in a void.  So many times I've tried to get more into open source, and now that time is finally here.  These repos and this GitHub account are my beginnings into doing more to contribute to all those that helped me learn so much.
+## What I've Been Using Lately
+![Ionic](https://ryanjagdfeld.com/Portals/1/images/ionic-sm-hl.png) ![Angular](https://ryanjagdfeld.com/Portals/1/images/angular-sm-hl.png) ![TypeScript](https://ryanjagdfeld.com/Portals/1/images/typescript-sm-hl.png) ![Javascript](https://ryanjagdfeld.com/Portals/1/images/javascript-sm-hl.png) ![Node.js](https://ryanjagdfeld.com/Portals/1/images/nodejs-sm-hl.png) ![C#](https://ryanjagdfeld.com/Portals/1/images/c-sharp-sm-hl.png) ![SQL & Azure SQL](https://ryanjagdfeld.com/Portals/1/images/sql-sm-hl.png)
