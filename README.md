@@ -1,4 +1,4 @@
-# ![Introduction](https://ryanjagdfeld.com/Portals/1/images/introduction-v6.png)
+# ![Introduction](https://yogit2.blob.core.windows.net/ryanj/introduction-v9.png)
 I've been designing and creating websites and apps for years.  These repos are my contribution to all those that helped me learn so much and get this far.
 
 ## What I've Been Using Lately
