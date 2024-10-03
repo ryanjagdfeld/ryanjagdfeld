@@ -1,4 +1,4 @@
-# ![Introduction](https://yogit2.blob.core.windows.net/ryanj/introduction-v9.png)
+# ![Introduction](https://yogit2.blob.core.windows.net/ryanj/Introduction-v10.webp)
 I've been designing and creating websites and apps for years.  These repos are my contribution to all those that helped me learn so much and get this far.
 
 ## What I've Been Using Lately
